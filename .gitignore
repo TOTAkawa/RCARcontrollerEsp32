@@ -1,0 +1,17 @@
+# Arduino IDE
+*.ino.cpp
+*.ino.eep
+*.ino.hex
+*.ino.bin
+*.ino.part
+*.ino.with_bootloader*
+*.bak
+
+# VS Code
+.vscode/
+
+# Logs e binários
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
